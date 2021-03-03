@@ -4,12 +4,9 @@
   - :heavy_check_mark: Web Development Introduction
   - :heavy_check_mark: Front-end Development
   - :heavy_check_mark: Back-end Development
-  - :seedling: Computer Cience (WIP)
+  - :heavy_check_mark: Computer Cience (WIP)
 
-- Currently working as Summer Jobber at Trybe  <img width='20px' height='20px' src='https://yt3.ggpht.com/a/AATXAJwv6J1DhKJtvmWwLg4NCBlef2r9VhiYfVwQPvNd=s900-c-k-c0xffffffff-no-rj-mo' />
-  - Revising back-end content, exercises and projects
-  - Half turn
-
+- Currently working as Instructor at Trybe  <img width='20px' height='20px' src='https://yt3.ggpht.com/a/AATXAJwv6J1DhKJtvmWwLg4NCBlef2r9VhiYfVwQPvNd=s900-c-k-c0xffffffff-no-rj-mo' />
 
  
 ### :eyes: Looking to collaborate with
