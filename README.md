@@ -1,5 +1,7 @@
 ### Hey, I'm Renato Álvaresg
-- Currently working as Instructor at Trybe  <img width='20px' height='20px' src='https://yt3.ggpht.com/a/AATXAJwv6J1DhKJtvmWwLg4NCBlef2r9VhiYfVwQPvNd=s900-c-k-c0xffffffff-no-rj-mo' />- I've on program of initiation in teaching physics named PIBID at UFLA(Universidade Federal de Lavras) for over a year
+Currently working as Instructor at Trybe  <img width='20px' height='20px' src='https://yt3.ggpht.com/a/AATXAJwv6J1DhKJtvmWwLg4NCBlef2r9VhiYfVwQPvNd=s900-c-k-c0xffffffff-no-rj-mo' />
+
+- I've on program of initiation in teaching physics named PIBID at UFLA (Universidade Federal de Lavras) for over a year
 - I studied Software Development at Trybe <img width='20px' height='20px' src='https://yt3.ggpht.com/a/AATXAJwv6J1DhKJtvmWwLg4NCBlef2r9VhiYfVwQPvNd=s900-c-k-c0xffffffff-no-rj-mo' /> 
   - :heavy_check_mark: Web Development Introduction
   - :heavy_check_mark: Front-end Development
@@ -30,7 +32,7 @@
 
 ### ⚡ Fun facts
   - :tent: Was a scout
-  - :rainbow: Taught physic at state schools
+  - :rainbow: Taught physics at state schools
   - :mount_fuji: Like to climb
   - :bike: Like to bike
   
