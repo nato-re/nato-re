@@ -1,12 +1,10 @@
-### Hey, I'm Renato Álvares
-
+### Hey, I'm Renato Álvaresg
+- Currently working as Instructor at Trybe  <img width='20px' height='20px' src='https://yt3.ggpht.com/a/AATXAJwv6J1DhKJtvmWwLg4NCBlef2r9VhiYfVwQPvNd=s900-c-k-c0xffffffff-no-rj-mo' />- I've on program of initiation in teaching physics named PIBID at UFLA(Universidade Federal de Lavras) for over a year
 - I studied Software Development at Trybe <img width='20px' height='20px' src='https://yt3.ggpht.com/a/AATXAJwv6J1DhKJtvmWwLg4NCBlef2r9VhiYfVwQPvNd=s900-c-k-c0xffffffff-no-rj-mo' /> 
   - :heavy_check_mark: Web Development Introduction
   - :heavy_check_mark: Front-end Development
   - :heavy_check_mark: Back-end Development
   - :heavy_check_mark: Computer Cience
-
-- Currently working as Instructor at Trybe  <img width='20px' height='20px' src='https://yt3.ggpht.com/a/AATXAJwv6J1DhKJtvmWwLg4NCBlef2r9VhiYfVwQPvNd=s900-c-k-c0xffffffff-no-rj-mo' />
 
 <h3>Things I code with</h3>
 <div>
@@ -23,12 +21,11 @@
     <img alt="Python" src="https://img.shields.io/badge/-Python-333E72?style=flat-square&logo=python&logoColor=yellow" />
 <div/>
 
-### Languages I'm into
+###  🌱 I’m currently learning
  
 <div>
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
     <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-8E7E99?style=flat-square&logo=elixir&logoColor=white" />
-    <img alt="Vim" src="https://img.shields.io/badge/-Vim-1D7C38?style=flat-square&logo=vim&logoColor=white" />
 <div/>
 
 ### ⚡ Fun facts
