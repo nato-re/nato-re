@@ -1,4 +1,4 @@
-### Hey, I'm Renato Álvaresg
+### Hey, I'm Renato Álvares
 Currently working as Instructor at Trybe  <img width='20px' height='20px' src='https://yt3.ggpht.com/a/AATXAJwv6J1DhKJtvmWwLg4NCBlef2r9VhiYfVwQPvNd=s900-c-k-c0xffffffff-no-rj-mo' />
 
 - I've been on program of initiation in teaching physics named PIBID at UFLA (Universidade Federal de Lavras) for over a year
