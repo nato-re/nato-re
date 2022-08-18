@@ -10,25 +10,22 @@ Currently working as Instructor at Trybe  <img width='20px' height='20px' src='h
 
 <h3>Things I code with</h3>
 <div>
-    <img alt="Nodejs"
-      src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-    <img alt="MongoDB"
-      src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=mysql&logoColor=white" /> 
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+    <img alt="Typescript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="Jest" src="https://img.shields.io/badge/-Jest-96737D?style=flat-square&logo=jest&logoColor=99425B" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/-Python-333E72?style=flat-square&logo=python&logoColor=yellow" />
+    <img alt="MongoDB"src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=mysql&logoColor=white" /> 
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
     <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/-Python-333E72?style=flat-square&logo=python&logoColor=yellow" />
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  
 <div/>
 
 ###  🌱 I’m currently learning
  
 <div>
-    <img alt="Typescript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-8E7E99?style=flat-square&logo=elixir&logoColor=white" />
 <div/>
 
