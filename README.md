@@ -43,7 +43,7 @@
 
 ### ⚡ Fun facts
   - :tent: Was a scout
-  - :rainbow: Taught physics at state schools
+  - :rainbow: Thought physics at state schools
   - :mount_fuji: Like to climb
   - :bike: Like to bike
   
